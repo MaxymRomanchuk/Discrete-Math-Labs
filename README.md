@@ -1,1 +1,1 @@
-# Discrete-Math-Labs
+# My-Discrete-Math-Labs
